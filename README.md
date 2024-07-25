@@ -1,4 +1,4 @@
-<h1 align="center">Desafio da DIO: Demonstração de um Ataque de Phishing </h1>
+# Desafio da DIO: Demonstração de um Ataque de Phishing
 
 Este projeto tem objetivo educativo, conscientização de como é fácil gerar um link falso de phishing, sobre as práticas de phishing e demonstrar a capacidade de gerar estes, utilizando um ambiente controlado para testes éticos de segurança. Não é para ser usado de forma maliciosa ou ilegal.
 
