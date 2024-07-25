@@ -7,3 +7,8 @@ Vamos elaborar um ataque de Phishing para obter senhas de login do Facebook. Uti
 # Demo
 ![](https://github.com/profjvidal/cibersecurity-desafio-phishing/blob/main/zphisher_serveo_demo.gif)
 
+# Atenção
+
+- Uso Responsável: Antes de usar esta ferramenta, obtenha permissão explícita do proprietário do sistema ou vítima a ser testado.
+- Legislação: Respeite as leis e regulamentos locais relacionados à segurança da informação e testes de penetração.
+- Propósito Educacional: Este projeto destina-se exclusivamente a fins educativos e de treinamento em segurança da informação. Não use este projeto para atividades maliciosas.
