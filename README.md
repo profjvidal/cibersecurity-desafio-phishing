@@ -1,7 +1,9 @@
 <h1 align="center"> Demonstração de um Ataque de Phishing </h1>
+
+Este projeto tem objetivo educativo, conscientização de como é fácil gerar um link falso de phishing, sobre as práticas de phishing e demonstrar a capacidade de gerar estes, utilizando um ambiente controlado para testes éticos de segurança. Não é para ser usado de forma maliciosa ou ilegal.
+
 Vamos elaborar um ataque de Phishing para obter senhas de login do Facebook. Utilizaremos o sistema operacional Kali Linux e a ferramenta Zphisher, com o serviço web <a href="https://serveo.net" target="_blank">Serveo.net</a>. Confira o passo a passo:
 
 # Demo
 ![](https://github.com/profjvidal/cibersecurity-desafio-phishing/blob/main/zphisher_serveo_demo.gif)
 
-Este projeto tem objetivo educativo, conscientização de como é fácil gerar um link falso de phishing, sobre as práticas de phishing e demonstrar a capacidade de gerar estes, utilizando um ambiente controlado para testes éticos de segurança. Não é para ser usado de forma maliciosa ou ilegal.
